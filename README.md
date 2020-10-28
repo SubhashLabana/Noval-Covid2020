@@ -1,0 +1,2 @@
+# Noval-Covid2020
+I have to done part time project with the great ui and formated the JSON text into proper layout with using card layout, JSON, API, Pie Chart , Country Listed and many more. here you can found more about of covid infomation Total cases, Reovered, Critical. Today cases, Total deaths, Today deaths, Affected countries with particular countries information of the above all Thank you.
